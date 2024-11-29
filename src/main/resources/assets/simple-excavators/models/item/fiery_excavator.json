@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "simple-excavators:item/fiery_excavator"
+  }
+}

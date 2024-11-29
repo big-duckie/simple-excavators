@@ -1,0 +1,30 @@
+{
+  "itemGroup.simple-excavators.group": "原版铲子",
+
+  "item.simple-excavators.wooden_excavator": "木铲",
+  "item.simple-excavators.stone_excavator": "石铲",
+  "item.simple-excavators.iron_excavator": "铁铲",
+  "item.simple-excavators.golden_excavator": "金铲",
+  "item.simple-excavators.diamond_excavator": "钻石铲",
+  "item.simple-excavators.netherite_excavator": "下界合金铲",
+  "item.simple-excavators.emerald_excavator": "绿宝石铲",
+  "item.simple-excavators.obsidian_excavator": "黑曜石铲",
+  "item.simple-excavators.lapis_excavator": "青金石铲",
+  "item.simple-excavators.quartz_excavator": "石英铲",
+  "item.simple-excavators.tater_excavator": "小塔特铲",
+  "item.simple-excavators.fiery_excavator": "炽烈铲",
+  "item.simple-excavators.prismarine_excavator": "海晶铲",
+  "item.simple-excavators.slime_excavator": "史莱姆铲",
+  "item.simple-excavators.ender_excavator": "末影铲",
+
+  "item.simple-excavators.vibranium_excavator": "振金铲",
+  "item.simple-excavators.glowstone_excavator": "荧石铲",
+  "item.simple-excavators.nether_excavator": "下界铲",
+
+  "text.autoconfig.simple-excavators.option.enableExtraMaterials": "额外原版材质铲子",
+  "text.autoconfig.simple-excavators.option.durabilityModifier": "铲子耐久修改",
+  "text.autoconfig.simple-excavators.category.default": "常规",
+  "text.autoconfig.simple-excavators.title": "原版铲子配置文件",
+
+  "item.simple-excavators.dynagear_excavator": "%s铲"
+}

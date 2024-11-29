@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "simple-excavators",
+  "version": "${version}",
+  "name": "Simple Excavators",
+  "description": "Adds excavators that break a 3x3 area. Forked from Draylar's Vanilla Excavators.",
+  "authors": [
+    "Big Duckie",
+    "Draylar"
+  ],
+  "contact": {
+    "homepage": "https://bigduckie.dev/mc-mods/simple-excavators",
+    "sources": "https://git.bigduckie.dev/big-duckie/simple-excavators"
+  },
+  "license": "MIT",
+  "icon": "assets/simple-excavators/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.bigduckie.simpleexcavators.SimpleExcavators"
+    ]
+  },
+  "mixins": [
+    "simple-excavators.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.7",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

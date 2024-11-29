@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "simple-excavators:diamond_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:emerald_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:ender_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:fiery_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:golden_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:iron_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:lapis_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:netherite_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:obsidian_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:prismarine_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:quartz_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:slime_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:stone_shovel",
+      "required": false
+    },
+    {
+      "id": "simple-excavators:wooden_shovel",
+      "required": false
+    }
+  ]
+}

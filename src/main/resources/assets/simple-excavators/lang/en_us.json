@@ -1,0 +1,30 @@
+{
+  "itemGroup.simple-excavators.group": "Vanilla Excavators",
+
+  "item.simple-excavators.wooden_excavator": "Wooden Excavator",
+  "item.simple-excavators.stone_excavator": "Stone Excavator",
+  "item.simple-excavators.iron_excavator": "Iron Excavator",
+  "item.simple-excavators.golden_excavator": "Golden Excavator",
+  "item.simple-excavators.diamond_excavator": "Diamond Excavator",
+  "item.simple-excavators.netherite_excavator": "Netherite Excavator",
+  "item.simple-excavators.emerald_excavator": "Emerald Excavator",
+  "item.simple-excavators.obsidian_excavator": "Obsidian Excavator",
+  "item.simple-excavators.lapis_excavator": "Lapis Lazuli Excavator",
+  "item.simple-excavators.quartz_excavator": "Quartz Excavator",
+  "item.simple-excavators.tater_excavator": "Lil Tater Excavator",
+  "item.simple-excavators.fiery_excavator": "Fiery Excavator",
+  "item.simple-excavators.prismarine_excavator": "Prismarine Excavator",
+  "item.simple-excavators.slime_excavator": "Slime Excavator",
+  "item.simple-excavators.ender_excavator": "Ender Excavator",
+
+  "item.simple-excavators.vibranium_excavator": "Vibranium Excavator",
+  "item.simple-excavators.glowstone_excavator": "Glowstone Excavator",
+  "item.simple-excavators.nether_excavator": "Nether Excavator",
+
+  "text.autoconfig.simple-excavators.option.enableExtraMaterials": "Extra Vanilla Material Excavators",
+  "text.autoconfig.simple-excavators.option.durabilityModifier": "Excavator Durability Modifier",
+  "text.autoconfig.simple-excavators.category.default": "General",
+  "text.autoconfig.simple-excavators.title": "Vanilla Excavators Config",
+
+  "item.simple-excavators.dynagear_excavator": "%s Excavator"
+}
